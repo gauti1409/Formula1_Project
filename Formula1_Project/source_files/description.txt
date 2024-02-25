@@ -1,1 +1,0 @@
-This Folder contains the source files downloaded from the Ergast API for Formula1 Project. 
