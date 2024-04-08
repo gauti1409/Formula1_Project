@@ -9,7 +9,7 @@ The main objectives of the project are listed as below:
 2. The logic for ingestion should be implemented in a way that it is able to handle the incremental data and performing the necessary transformations to produce the final datasets and create a data platform to perform the above mentioned workloads.
 
 **Tech Stack Used**:
-1. Using the Azure Cloud Services, Pyspark and Azure Databricks we will be meeting the required objectives of this project.
+1. Using the Azure Cloud Services, ADLS Gen 2 for storage, Pyspark and Azure Databricks we will be meeting the required objectives of this project.
 
 **Data Modelling for the Source Datasets**
 The Data Modelling for the source datasets is present below in the screenshot:
