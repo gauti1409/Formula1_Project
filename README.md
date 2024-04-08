@@ -1,5 +1,5 @@
 **Data Sources**:
-The Source data for this project has been referred from the Ergast API Website. This website is an experimental web service which provides a historical record of motor racing data for non-commercial purposes. The API provides data for the Formula One series, from the beginning of the world championships in 1950. The Source datasets are also placed in the Source_Datasets folder of this repository.
+The Source data for this project has been referred from the Ergast API Website. This website is an experimental web service which provides a historical record of motor racing data for non-commercial purposes. The API provides data for the Formula One series, from the beginning of the world championships in 1950. The Source datasets are also placed in the Source_Files folder of this repository.
 
 Link: https://ergast.com/mrd/
 
